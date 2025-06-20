@@ -19,6 +19,9 @@ An IoT-based garden automation project using ESP32, a soil moisture sensor, and 
 - Power Supply
 
 ## 📸 Screenshots
+https://github.com/SubhoG333/smart_irrigation_system/blob/main/IoT-based-Smart-Irrigation-System-using-Soil-Moisture-Sensor-and-ESP8266-NodeMCU.webp
+https://github.com/SubhoG333/smart_irrigation_system/blob/main/R.png
+https://github.com/SubhoG333/smart_irrigation_system/blob/main/displaying-dht21-data-on-16x2-i2c-lcd-using-esp32-circuit-diagram-1536x941.jpg
 
 ### Circuit Setup
 ![Circuit](images/circuit-setup.jpg)
